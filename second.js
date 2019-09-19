@@ -10,7 +10,7 @@ var options={
     chart:{
         height:300,
         width:500,
-        type:'line',
+        type:'area',
         animation:{
             enabled:true,
             easing:'linear',
